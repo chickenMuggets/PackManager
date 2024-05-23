@@ -1,0 +1,4 @@
+graft packManager
+include pyproject.tom;
+include setup.py
+global-exclude *.py[cod]
