@@ -1,6 +1,9 @@
 # PackInst
-PackInst is a pip package made to make installing python packages easier.
+PackInst is a pip module made to make distributing projects with 3rd part librarys easier.
 
-It allows you to type packageMan.install('packagename',ShowInstallationProgress,ConfirmInstall)
+You can install it with `pip install packManager`
 
-It is currently not avalible on pip.
+It has three main functions, these are:
+   - installing modules
+   - uninstalling modules
+   - detecting if a module is installed on the users computer
